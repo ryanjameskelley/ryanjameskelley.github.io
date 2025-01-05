@@ -1,9 +1,10 @@
 * {
-font-family: "Raleway", serif;  
+font-family: 'Raleway', serif;  
 }
 
 h1 {
     color: SeaGreen;
+    font-family: 'Raleway', serif; 
   }
   
   
